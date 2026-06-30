@@ -1,4 +1,4 @@
-# 🧠 Deep Agents Playground
+# 🧠 Deep Agents Orchestration
 
 A production-style implementation of the **Deep Agents** framework showcasing autonomous planning, context engineering, reusable skills, specialized subagents, multiple storage backends, conversation memory, and tool integration through an interactive Streamlit application.
 
